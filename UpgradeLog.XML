@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MemTracer">
+</Property><Property Name="Solution File" Value="D:\Dev\Projects\Past Projects\MemTracer\MemTracer\MemTracer.sln">
+</Property><Property Name="User Options File" Value="D:\Dev\Projects\Past Projects\MemTracer\MemTracer\MemTracer.suo">
+</Property><Property Name="Date" Value="Saturday, October 20, 2012">
+</Property><Property Name="Time" Value="13:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MemTracer.sln" Description="File successfully backed up as D:\Dev\Projects\Past Projects\MemTracer\MemTracer\MemTracer.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="MemTracer.suo" Description="File successfully backed up as D:\Dev\Projects\Past Projects\MemTracer\MemTracer\MemTracer.suo.old">
+</Event><Event ErrorLevel="0" Project="MemTracer" Source="MemTracer.vcproj" Description="Converting project file 'D:\Dev\Projects\Past Projects\MemTracer\MemTracer\MemTracer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MemTracer" Source="MemTracer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="MemTracer" Source="MemTracer.vcproj" Description="MSB8012: $(TargetPath) ('D:\Dev\Projects\Past Projects\MemTracer\MemTracer\.\Debug\MemTracer.exe') does not match the Linker's OutputFile property value '.\Debug/MemTracer.exe' ('D:\Dev\Projects\Past Projects\MemTracer\MemTracer\Debug/MemTracer.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="MemTracer" Source="MemTracer.vcproj" Description="MSB8012: $(TargetPath) ('D:\Dev\Projects\Past Projects\MemTracer\MemTracer\.\Release\MemTracer.exe') does not match the Linker's OutputFile property value '.\Release/MemTracer.exe' ('D:\Dev\Projects\Past Projects\MemTracer\MemTracer\Release/MemTracer.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="MemTracer" Source="MemTracer.vcproj" Description="Done converting to new project file 'D:\Dev\Projects\Past Projects\MemTracer\MemTracer\MemTracer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MemTracer" Source="MemTracer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MemTracer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MemTracer.sln" Description="Converted">
+</Event></UpgradeLog>

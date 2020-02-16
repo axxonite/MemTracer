@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{35748117-a038-4733-a2a8-3c52d0803992}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Main GUI">
+      <UniqueIdentifier>{184994e0-5a4b-4de2-badd-5b76d9b148bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tracer">
+      <UniqueIdentifier>{3e1ca2dd-26a7-4102-aa07-1fd6b6cd6d62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base">
+      <UniqueIdentifier>{86369148-0ad1-411f-b4f7-fd9b281a4215}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\MemTracer.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\MemTracer.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\MemTracerDoc.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt">
+      <Filter>Base</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Main GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MemTracerDoc.cpp">
+      <Filter>Main GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MemTracerView.cpp">
+      <Filter>Main GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MainTracer.cpp">
+      <Filter>Tracer</Filter>
+    </ClCompile>
+    <ClCompile Include="Process.cpp">
+      <Filter>Tracer</Filter>
+    </ClCompile>
+    <ClCompile Include="MemTracer.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Main GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MemTracerDoc.h">
+      <Filter>Main GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MemTracerView.h">
+      <Filter>Main GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MainTracer.h">
+      <Filter>Tracer</Filter>
+    </ClInclude>
+    <ClInclude Include="Process.h">
+      <Filter>Tracer</Filter>
+    </ClInclude>
+    <ClInclude Include="MemTracer.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MemTracer.rc">
+      <Filter>Base</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
